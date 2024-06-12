@@ -7,4 +7,4 @@
 - **Telegram (Russian):** [Totemancer RU](https://t.me/Totemancer_RU)
 - **Telegram Bot:** [Totemancer Bot](https://t.me/TotemancerBot)
 - **Twitter:** [Totemancer on Twitter](https://x.com/totemancer)
-- **GetGems:** [Totemancer on GetGems](https://getgems.io/totemancer)
+- **Getgems:** [Totemancer on Getgems](https://getgems.io/totemancer)
